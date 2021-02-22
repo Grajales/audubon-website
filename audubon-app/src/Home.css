@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: darkgray;
+    color: white;
+}
+.birdList{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+   
+}
+img{
+    padding: 50px;
+}
